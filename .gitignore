@@ -27,3 +27,8 @@ private/
 
 # Session templates (not committed)
 examples/sessions/*.tmp
+
+# Python files
+venv/
+.idea
+pyproject.toml
